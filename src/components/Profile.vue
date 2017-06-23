@@ -2,10 +2,11 @@
   <div class="profile">
   <md-card>
       <md-card-area>
-        <img src="../assets/Profile.jpg" width="800" height="800">
+        <img src="../assets/Profile.jpg" width="450">
         <md-card-header>
           <div class="md-title">Nat Nunpanichphong</div>
           <div class="md-subhead">Computer Science student from Mahidol University International College</div>
+          <div class="md-subhead">Web Developer</div>
         </md-card-header>
         <md-card-content>
           A senior college student marjoring in computer science program in Science Major.

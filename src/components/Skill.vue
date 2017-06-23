@@ -5,19 +5,20 @@
       <md-card-header-text>
         <md-card-content align ="left">
           <div class="md-title">Python</div>
-          <div class="md-subhead">80%</div>
-          <p><p>
+          <br><br>
           <div class="md-title">Java</div>
-          <div class="md-subhead">50%</div>
-          <p><p>
+          <br><br>
           <div class="md-title">Scala</div>
-          <div class="md-subhead">70%</div>
-          <p><p>
+          <br><br>
           <div class="md-title">HTML/CSS</div>
-          <div class="md-subhead">40%</div>
-          <p><p>
+          <br><br>
           <div class="md-title">Swift</div>
-          <div class="md-subhead">20%</div>
+          <br><br>
+          <div class="md-title">Git</div>
+          <br><br>
+          <div class="md-title">VueJS</div>
+          <br><br>
+          <div class="md-title">Scalatra</div>
         </md-card-content>
       </md-card-header-text>
     <md-card-media>
